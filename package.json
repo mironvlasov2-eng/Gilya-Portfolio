@@ -1,0 +1,7 @@
+{
+  "name": "gilya-portfolio",
+  "private": true,
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
