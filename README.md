@@ -19,11 +19,11 @@ git add .
 git commit -m "Portfolio"
 
 git branch -M main
-git remote add origin https://github.com/ТВОЙ_ЛОГИН/gilya-portfolio.git
+git remote add origin https://github.com/mironvlasov2-eng/Gilya-Portfolio.git
 git push -u origin main
 ```
 
-(Замени `ТВОЙ_ЛОГИН` и `gilya-portfolio` на свой логин и имя репозитория.)
+(Remote уже добавлен — если делал раньше, просто выполни `git push -u origin main`.)
 
 3. **Включи GitHub Pages**
    - В репозитории: **Settings** → **Pages**
