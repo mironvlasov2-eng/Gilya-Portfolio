@@ -44,8 +44,9 @@ body {
 
 .logo-img {
   display: block;
-  height: 2.5rem;
+  height: 1.75rem;
   width: auto;
+  max-width: 120px;
   background: none;
   border: none;
   box-shadow: none;
